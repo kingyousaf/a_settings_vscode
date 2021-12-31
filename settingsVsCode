@@ -1,0 +1,30 @@
+{
+  "workbench.colorTheme": "Cobalt2",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.formatOnPaste": true,
+  "prettier.endOfLine": "auto",
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "eslint.alwaysShowStatus": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "emmet.triggerExpansionOnTab": true,
+    "editor.cursorStyle": "line-thin",
+    "editor.cursorBlinking": "expand",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "terminal.integrated.copyOnSelection": true,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "files.autoSave": "afterDelay",
+    
+    
+}
+
+download all the cobalt theme icon theme and extenshions 
