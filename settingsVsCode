@@ -16,18 +16,25 @@
   "eslint.alwaysShowStatus": true,
   "workbench.iconTheme": "material-icon-theme",
   "emmet.triggerExpansionOnTab": true,
-    "editor.cursorStyle": "line-thin",
-    "editor.cursorBlinking": "expand",
-    "javascript.updateImportsOnFileMove.enabled": "always",
-    "terminal.integrated.copyOnSelection": true,
-    "git.autofetch": true,
-    "git.confirmSync": false,
-    "files.autoSave": "afterDelay",
-    "editor.suggestSelection": "first",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "tabnine.experimentalAutoImports": true,
-    
-    
+  "editor.cursorStyle": "line-thin",
+  "editor.cursorBlinking": "expand",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "terminal.integrated.copyOnSelection": true,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "files.autoSave": "afterDelay",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "redhat.telemetry.enabled": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.startupEditor": "none",
+  "editor.inlineSuggest.enabled": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "auto-rename-tag.activationOnLanguage": [
+    "*"
+  ]
 }
 
 
